@@ -2,7 +2,7 @@
 
 Original repo: https://github.com/clacy360/clacy360.github.io
 
-Authors:
+Authors:  
       Andrew Lim  
       Cami Lacy  
       Sithartha Phengsavanh  
