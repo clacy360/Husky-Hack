@@ -1,0 +1,139 @@
+﻿@page
+
+@model IndexModel
+
+@{
+
+    ViewData["Title"] = "Home page";
+
+}
+
+
+
+<style>
+
+  .text-center {
+
+    text-align: center;
+
+  }
+
+  
+
+  .LandingPageHeader {
+
+    font-size: 50px;
+
+    color: #4e2683;
+
+    font-family: Arial, sans-serif;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+
+    text-align: center;
+
+    margin: 15px;
+
+  }
+
+  
+
+  p {
+
+    font-size: 20px;
+
+    color: #333;
+
+    font-family: Arial, sans-serif;
+
+  }
+
+
+
+  .MainContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify: space-evenly;
+    margin-bottom: 50px;
+  }
+
+
+
+  .LandingPageImage {
+
+    flex: 1;
+
+    margin-right: 20px;
+
+  }
+
+
+
+  .UWHUSKYPIC {
+
+    width: 150%;
+
+    height: auto;
+
+    display: block;
+
+  }
+
+
+
+  .LandingPageContent {
+
+    flex: 2;
+
+    margin-left: 150px;
+
+    text-align: left;
+  }
+
+  .ContentHeader {
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+
+
+  .ParagraphContent {
+    font-size: 25px;
+  }
+
+
+
+</style>
+
+
+
+<div class="text-center">
+
+    <h1 class = "LandingPageHeader">Everything that's Happening at UW Bothell</h1>
+
+    <div class = "MainContainer">
+
+        <div class = "LandingPageImage">
+
+            <img class = "UWHUSKYPIC" src = https://cdn.discordapp.com/attachments/1103395778342420501/1104494154802802739/24450-9-husky-clipart.png>
+
+        </div>
+
+
+
+        <div class = "LandingPageContent">
+
+            <h2 class = "ContentHeader" >Bringing Events to You</h2>
+
+            <br>
+
+            <p class = "ParagraphContent" >Welcome to our event hub! We are dedicated to bringing exciting events to you, the students. From outdoor activities to workshops and everything in between, we've got you covered. Stay tuned for upcoming events and get ready to have some fun!</p>
+
+        </div>
+
+    </div>
+
+</div>
