@@ -3,11 +3,11 @@
 Original repo: https://github.com/clacy360/clacy360.github.io
 
 Authors:
-      *Andrew Lim
-      *Cami Lacy
-      *Sithartha Phengsavanh
-      *Foziya Reshid
-      *Yamileth Camacho
+      Andrew Lim  
+      Cami Lacy  
+      Sithartha Phengsavanh  
+      Foziya Reshid  
+      Yamileth Camacho  
 
 Idea: The current UWB Events website does not differentiate events between faculty and students.
       This makes it difficult to reach both student and staff through independent channels.
